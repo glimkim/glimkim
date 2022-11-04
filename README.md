@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LIM%20KIM&fontSize=40&animation=fadeIn&fontAlignY=30&desc=const%20limKim%20=%20new%20FrontendDeveloper();&descSize=20&descAlignY=48&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LIM%20KIM&fontSize=40&animation=fadeIn&fontAlignY=30&&descSize=20&descAlignY=48&descAlign=50)
   <p>Hello World! I'm Lim 😊, a Frontend Developer 👩🏻‍💻</p>
 
 *I'm Familiar with*
