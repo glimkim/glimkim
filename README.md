@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LIM%20KIM&fontSize=40&animation=fadeIn&fontAlignY=30)
   <p>Hello World! I'm Lim 😊, a Frontend Developer 👩🏻‍💻</p>
 
-*I'm Familiar with*
+*I'm familiar with*
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572b6?style=plastic&logo=CSS3&logoColor=white)
@@ -14,7 +14,7 @@
 ![Sass Badge](https://img.shields.io/badge/SCSS-CC6699?style=plastic&logo=Sass&logoColor=white)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white)<br>
   
-*I Experienced*
+*I tried*
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white)
