@@ -1,4 +1,3 @@
-
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LIM%20KIM&fontSize=40&animation=fadeIn&fontAlignY=30)
